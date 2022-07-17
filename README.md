@@ -4,8 +4,8 @@
   1. Sign up for an account
   2. Login/Logout
   3. Chat (send text data) with a specified account (via Username):
-        Chat all
-        Private chat
+        Chat all, 
+        Private chat, 
         Group chat  
   4. Send text file
 
